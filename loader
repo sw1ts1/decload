@@ -1,6 +1,8 @@
 {
-    
     "rom": {
+            "hwid": "B+frA4fHB+1qAR=="
+    },
+    "SW1TS": {
             "hwid": "B+frA4fHB+1qAR=="
     },
 }
